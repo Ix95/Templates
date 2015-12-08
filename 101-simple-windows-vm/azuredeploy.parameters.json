@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "iall95store	"
+      "value": "iall95store1"
     },
     "adminUsername": {
       "value": "admin123"
@@ -12,7 +12,7 @@
       "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "iall95"
+      "value": "iall951234"
     },
     "location": {
       "value": "West US"
